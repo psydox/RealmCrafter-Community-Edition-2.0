@@ -1,0 +1,16 @@
+﻿Build started 1/25/2015 9:26:18 PM.
+     1>Project "C:\Users\Michael\Desktop\CaffeinatedAPI\Vanquished-Souls\RCEnet_DLL\RCEnet_DLL\RCEnet\RCEnet.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Michael\Desktop\CaffeinatedAPI\Vanquished-Souls\RCEnet_DLL\RCEnet_DLL\Release\RCEnet.dll" /INCREMENTAL:NO /NOLOGO ws2_32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Michael\Desktop\CaffeinatedAPI\Vanquished-Souls\RCEnet_DLL\RCEnet_DLL\Release\RCEnet.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Michael\Desktop\CaffeinatedAPI\Vanquished-Souls\RCEnet_DLL\RCEnet_DLL\Release\RCEnet.lib" /MACHINE:X86 /SAFESEH /DLL Release\main.obj
+         Release\TrafficMonitor.obj
+         enet\EnetLib.lib
+         "C:\Users\Michael\Desktop\CaffeinatedAPI\Vanquished-Souls\RCEnet_DLL\RCEnet_DLL\RCEnet\enet\EnetLib.lib"
+            Creating library C:\Users\Michael\Desktop\CaffeinatedAPI\Vanquished-Souls\RCEnet_DLL\RCEnet_DLL\Release\RCEnet.lib and object C:\Users\Michael\Desktop\CaffeinatedAPI\Vanquished-Souls\RCEnet_DLL\RCEnet_DLL\Release\RCEnet.exp
+         Generating code
+         Finished generating code
+         RCEnet.vcxproj -> C:\Users\Michael\Desktop\CaffeinatedAPI\Vanquished-Souls\RCEnet_DLL\RCEnet_DLL\Release\RCEnet.dll
+     1>Done Building Project "C:\Users\Michael\Desktop\CaffeinatedAPI\Vanquished-Souls\RCEnet_DLL\RCEnet_DLL\RCEnet\RCEnet.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.02

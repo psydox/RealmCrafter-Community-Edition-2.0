@@ -1,0 +1,31 @@
+Realm Crafter External Updater
+
+Version 1.2 introduces an external updater to replace the one built into the game client. The use of an external system means that it can be easily customised or replaced.
+
+When creating or patching a Realm Crafter project, the updater will be placed in the project folder with the name of your project. The client will be renamed to "Game.exe". This setup can be customised (See Configuration).
+
+Generating Patches
+
+From within the game editor, click "Generate Client Update". The editor will first build a full game project, and then an updates project. Update files can be found in Patches\Files\.
+
+To upload the patch, copy all the files to your webserver and include the UpdatesServer.php script. You must replace all files that have changed.
+
+Configuration
+
+Configuration is stored within the Language.txt file in the project folder. This file can be included within the updater assembly when the updater source is released. The following is a description of the language parameters:
+
+GameName - The name of your game, as it should appear in the title bar
+OverallProgress - Text used to identify the current update section, default 'Overall Progress'
+Checking - Used while checking files
+Downloading - Used file downloading
+Final - Used in cleanup process
+Completed - Completion message
+Quit - Name of the quit button
+Play - Name of the play button
+ExitTitle - Text to appear in the title bar of the Quit dialog
+ExitText - Text to appear in the Quit dialog
+
+Application - Name of the executable to run on exit (Default: Game.exe)
+URL - URL of update files
+News - URL of patch news for the HTML gadget
+

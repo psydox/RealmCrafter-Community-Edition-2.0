@@ -1,0 +1,1 @@
+<html><head><title>solstargames.net</title></head><frameset rows="100%" scrolling="yes" border="0"><frame src="http://realmcrafter.com"><frame src="http://webhosting.yahoo.com/forward.html" marginwidth="0" marginheight="0"  scrolling="no" frameborder="0"></frameset></html>

@@ -1,0 +1,13 @@
+############################
+RCCE 2 PROJECT MANAGER v3.0
+GAJATIX SOFTWARE, RYDE SOFTWARE
+RCCE 2 ENGINE BUILD: 1.65
+#############################
+
+RCCE 2 PROJECT MANAGER HELP FILE:
+----------------------------------
+
+This is the help file for the Project Manager. This tool is designed to help you navigate around the different modules of the 
+RCCE 2 Engine.
+
+To be finished....

@@ -1,0 +1,12 @@
+[16:39:23]  Loaded options from file
+[16:39:23]  Gooey loaded for menu
+[16:39:25]  EULA complete
+[16:39:25]  Loaded animation sets
+[16:39:25]  Server chosen
+[16:39:26]  Logged in
+[16:39:28]  Character selection complete
+[16:39:28]  Menu finished - starting actual game
+[16:39:29]  Loaded general game media
+[16:39:29]  Successfully connected to server
+[16:39:29]  Game started
+[16:39:33]  Entered zone: Plains
